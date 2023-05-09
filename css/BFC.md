@@ -36,3 +36,7 @@ flex/grid 容器中没有可用的浮动子级
 ### 相同
 
 但排除外部浮动和阻止外边距重叠仍然有效
+
+## 附录
+
+- https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Block_formatting_context
