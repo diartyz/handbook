@@ -1,0 +1,3 @@
+- v8 垃圾收集
+- 手写 promise
+- 手写 react
